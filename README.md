@@ -14,3 +14,5 @@ of the website. You won't need to open the .html file one by one. As long as you
 
 I learned HTML before so creating this webpage wasn't hard for me but it was still fun to create. The most pondering thing I did while doing this project was thinking if 
 it's readable, if it's understandable, if the color's too dark or light, does the color clash, if it too much like too much pictures, and etc? I just wanted to make a webpage that's readable and easy to navigate. 
+
+Youtube Link: https://youtu.be/3vBvs6M4d6w
