@@ -1,0 +1,51 @@
+body {background-color: #7C0A02;
+	background-image: url("Geometric Patterns.jpg");}
+h1 {color: #FF0800;
+	font-family: Castellar, serif;
+	font-size: 3.75em;
+	text-align: center;
+	line-height: 200%
+	text-indent: 1em;
+	text-shadow: 3px 3px 5px #CCCCCC;
+	background-image: url("golden dragon.gif");
+	font-weight: bold;}
+h2 {color: #FFDF00;
+	text-align: center;
+	font-size: 1.5em;}
+h3,h4 {color: #FFDF00;
+	text-align: center;}
+h5 {background-image: url("lanterns.gif");
+	background-repeat: repeat;
+	margin: 5px;}
+
+p {color:#FFDF00;
+	font-size: 1.5em;}
+nav a{font-weight: bold;
+	font-size: 2em;
+	color: #FFDF00;
+	text-decoration: none;
+	background-image: url("phoenix.gif");}
+nav ul ul{background-color: #7C0A02;
+	text-align: left;
+	display: none;
+	background-image: url("Geometric Patterns.jpg");}
+nav ul:hover ul{display: block;}
+footer{color: #FFDF00;
+	font-size: .75em;
+	font-style: italic;
+	text-align: center;}
+div{font-size: 1em;
+	color: #FFDF00;}
+figure{width: 932px;
+	padding: 50px;
+	margin: auto;}
+table{margin: auto;
+	color: #FFDF00;
+	font-size: 1.5em;}
+font {color: #FF0038;}
+text {color: #FF0038;}
+iframe{text-align: center;
+	width:100%;}
+	
+
+	
